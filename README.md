@@ -53,10 +53,6 @@ AI Dream Whisper is a groundbreaking application that leverages the power of art
 
 6. Open a web browser and navigate to `http://localhost:5000` to access the application.
 
-## References
-
-- [Enhancement of memory by auditory stimulation during postlearning REM sleep in humans](https://www.sciencedirect.com/science/article/abs/pii/0031938489902199)
-- [Upgrading the sleeping brain with targeted memory reactivation](https://www.sciencedirect.com/science/article/abs/pii/S1364661312002843)
 
 ---
 
