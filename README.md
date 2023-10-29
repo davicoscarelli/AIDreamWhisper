@@ -1,4 +1,4 @@
-# AI-Powered Learning Dreams: AI Dream Whisper
+# AI Dream Whisper
 
 AI Dream Whisper is a groundbreaking application that leverages the power of artificial intelligence to transform passive nighttime hours into a unique learning experience. Drawing inspiration from scientific research on the enhancement of learning through auditory stimuli during REM sleep, this app provides students with calming, educational stories designed for nighttime learning.
 
