@@ -1,3 +1,6 @@
+![AI Dream Whisper](https://i.ibb.co/8NjK3vj/DALL-E-2023-10-29-02-11-58-Illustration-of-a-tranquil-bedroom-setting-with-a-person-in-deep-sleep-un.png)
+
+
 # AI Dream Whisper
 
 AI Dream Whisper is a groundbreaking application that leverages the power of artificial intelligence to transform passive nighttime hours into a unique learning experience. Drawing inspiration from scientific research on the enhancement of learning through auditory stimuli during REM sleep, this app provides students with calming, educational stories designed for nighttime learning.
