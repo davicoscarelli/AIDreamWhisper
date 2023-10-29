@@ -9,15 +9,16 @@ import numpy as np
 import soundfile as sf
 from scipy.signal import resample
 import io
+import os
 
 
 load_dotenv()
 
 
-openai.api_key = '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'  
+openai.api_key =  os.getenv("OPENAI_API_KEY")
 
 
-client = Client('iLWBPrShEfa0Le2O0HjuNDgNJnM2', '18e677e998d54578907bd11a466b45c0')
+client = Client(os.getenv("PLAYHT_USER_ID"), os.getenv("PLAYHT_API_KEY"))
 
 
 options = TTSOptions(voice="s3://voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/female-cs/manifest.json")
